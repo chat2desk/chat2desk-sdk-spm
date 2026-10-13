@@ -5,12 +5,10 @@ Swift Package Manager distribution of the **Chat2Desk iOS SDK**.
 This repository contains the `Package.swift` manifest, this README, and version tags.
 The SDK is shipped as a prebuilt XCFramework attached to GitHub Releases in this repository.
 
-<!-- SDK_RELEASE_START -->
-The first SPM release, **1.5.14**, is planned and has not been published yet.
-The installation examples below apply after that release is published.
-<!-- SDK_RELEASE_END -->
+Latest release: **1.5.14**. [Release notes](https://github.com/chat2desk/chat2desk-sdk-spm/releases/tag/v1.5.14).
 
 ## Requirements
+
 - iOS 12.0+
 - Xcode 14+
 
@@ -37,11 +35,6 @@ In code:
 ```swift
 import chat2desk_sdk
 ```
-
-### CocoaPods (legacy)
-
-CocoaPods is a legacy distribution channel. New SDK versions are distributed
-through Swift Package Manager. Use SPM after the first release is published.
 
 ## Versioning
 
